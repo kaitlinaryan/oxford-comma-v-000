@@ -1,3 +1,4 @@
 def oxford_comma(array)
-array = ["kiwi"]
+values = ["kiwi"]
+array.to_s
 end
